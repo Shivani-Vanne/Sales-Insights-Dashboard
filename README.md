@@ -30,7 +30,7 @@ The report provides a clear view of key business metrics such as total sales, or
 
 ## 📁 Project Files
 - `Sales_Insights_Dashboard.pbix` – Power BI report file  
-- `sales_dataset.xlsx` – Dataset used  
+- `Sales_Insights_dataset.xlsx` – Dataset used  
 - `dashboard_preview.png` – Screenshot of the final dashboard  
 
 ---
